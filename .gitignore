@@ -1,0 +1,9 @@
+.idea/.idea.Reactivities/.idea/contentModel.xml
+.idea/.idea.Reactivities/riderModule.iml
+bin
+obj
+.vscode
+.DS_Store
+appsettings.json
+*.db
+**/.idea
